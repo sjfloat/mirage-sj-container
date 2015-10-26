@@ -1,0 +1,3 @@
+[submodule "mirage-skeleton"]
+	path = mirage-skeleton
+	url = git@github.com:sjfloat/mirage-skeleton.git
